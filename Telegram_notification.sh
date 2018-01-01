@@ -5,7 +5,7 @@ telegramchatid="79796"
 url="https://api.telegram.org/bot"$telegrambot"/sendMessage"
 
 date="$(date "+%F %T")"
-ip="$(hostname -i)"
+ip="$(hostname -I)"
 if [ -n "$SSH_CLIENT" ] ; then
         ip_address=$(echo $SSH_CLIENT | awk '{print $1}')
 
