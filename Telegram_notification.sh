@@ -1,6 +1,6 @@
 #!/bin/bash
-telegrambot="547505706:AAGFF2_cdzYn0vBV6Tx0piL9vWfzcilhpY"
-telegramchatid="79796"
+telegrambot="547505706:AAG"
+telegramchatid="797"
 
 url="https://api.telegram.org/bot"$telegrambot"/sendMessage"
 
