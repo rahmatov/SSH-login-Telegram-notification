@@ -30,4 +30,4 @@ wget https://raw.githubusercontent.com/rahmatov/SSH-login-Telegram-notification/
 
 ## Contact me
 
-[![Twitter](https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-24.png)](https://twitter.com/Punk__R0ck) [@Punk__R0ck](https://twitter.com/Punk__R0ck)
+[![LinkedIn](https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png)](https://twitter.com/Punk__R0ck) [@gani-rahmatov](https://www.linkedin.com/in/gani-rakhmatov/)
