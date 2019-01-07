@@ -30,4 +30,4 @@ wget https://raw.githubusercontent.com/rahmatov/SSH-login-Telegram-notification/
 
 ## Contact me
 
-[![LinkedIn]](https://www.linkedin.com/in/gani-rakhmatov/) [@gani-rahmatov](https://www.linkedin.com/in/gani-rakhmatov/)
+[@gani-rahmatov](https://www.linkedin.com/in/gani-rakhmatov/)
